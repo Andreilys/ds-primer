@@ -1,6 +1,6 @@
 # Data Science Primer
 
-[View The Cheatsheet](https://ds-primer.readthedocs.io/en/latest/)
+[View The Primer](https://ds-primer.readthedocs.io/en/latest/)
 
 ## How To Contribute
 
