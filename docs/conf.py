@@ -47,8 +47,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'ML Cheatsheet'
-copyright = '2017'
+project = 'Data Science Primer'
+copyright = '2018'
 author = 'Team'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -133,7 +133,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'MLCheatsheet.tex', 'ML Cheatsheet Documentation',
+    (master_doc, 'dsprimer.tex', 'Data Science Primer Documentation',
      'Team', 'manual'),
 ]
 
@@ -143,7 +143,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'mlcheatsheet', 'Machine Learning Cheatsheet Documentation',
+    (master_doc, 'dsprimer', 'Data Science Primer Documentation',
      [author], 1)
 ]
 
@@ -154,8 +154,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'MLCheatsheet', 'ML Cheatsheet Documentation',
-     author, 'Contributors', 'Glossary of machine learning terms and concepts.',
+    (master_doc, 'dsprimer', 'Data Science Primer',
+     author, 'Contributors', 'Glossary of Data Science terms and concepts.',
      'Miscellaneous'),
 ]
 

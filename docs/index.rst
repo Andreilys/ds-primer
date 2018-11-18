@@ -46,8 +46,6 @@ Brief visual explanations of machine learning concepts with diagrams, code examp
     :titlesonly:
 
     tools
-    blogs and podcasts
-    education resources
     communities
     datasets
     libraries
