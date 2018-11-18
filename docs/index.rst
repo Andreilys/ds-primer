@@ -3,7 +3,7 @@
 Data Science Primer
 ===========================
 
-A short primer covering both technical and non-technical topics associated with Data Science.
+A Primer that covers both technical and non-technical topics associated with Data Science.
 
 .. warning::
 
