@@ -1,12 +1,12 @@
-# Machine Learning Cheatsheet
+# Data Science Primer
 
-[View The Cheatsheet](http://ml-cheatsheet.readthedocs.io/en/latest/)
+[View The Cheatsheet](https://ds-primer.readthedocs.io/en/latest/)
 
 ## How To Contribute
 
 1. Clone Repo
 ```
-git clone https://github.com/bfortuner/ml-cheatsheet.git
+git clone https://github.com/andreilys/ds-primer.git
 ```
 
 2. Install Dependencies
@@ -62,11 +62,6 @@ RST has more features. For large and complex documentation projects, it's the lo
 * https://eli.thegreenplace.net/2017/restructuredtext-vs-markdown-for-technical-documentation/
 
 
-## Top Contributors
-
-We're big fans of [Distill](http://distill.pub/prize) and we like their idea of offering prizes for high-quality submissions. We don't have as much money as they do, but we'd still like to reward contributors in some way for contributing to the glossary. For instance a cheatsheet cryptocurreny where tokens equal commits ;). Let us know if you have better ideas. In the end, this is an open-source project and we hope contributing to a repository of concise, accessible, machine learning knowledge is enough incentive on its own!
-
-
 ## Tips and Tricks
 
 * [Adding equations](http://www.sphinx-doc.org/en/stable/ext/math.html)
@@ -90,3 +85,7 @@ We're big fans of [Distill](http://distill.pub/prize) and we like their idea of 
 * [Sphinx Tutorial](https://pythonhosted.org/an_example_pypi_project/sphinx.html)
 * [Sphinx Docs](http://www.sphinx-doc.org/en/stable/markup/code.html)
 * [Sphinx Cheatsheet](http://openalea.gforge.inria.fr/doc/openalea/doc/_build/html/source/sphinx/rest_syntax.html)
+
+## Attribution
+
+This primer is inspired by the [ml-cheatsheet](https://github.com/bfortuner/ml-cheatsheet) created by Brendan Fortuner. While his cheatsheet focuses more on the technical machine learning side of things, this primer emphasizes a holistic overview of Data Science. I found his approach to structuring the cheatsheet to be clean and intuitive, so I decided to replicate it here with the Data Science primer.
