@@ -1,7 +1,7 @@
-.. python:
+.. stakeholder_management:
 
 ========
-Python
+Stakeholder Management
 ========
 
 .. contents:: :local:

@@ -1,7 +1,7 @@
-.. python:
+.. product:
 
 ========
-Python
+Product
 ========
 
 .. contents:: :local:
@@ -17,16 +17,7 @@ xxx
 
 Subj_1
 ===========
-
-
-.. rubric:: Code
-
-
-Some code:
-::
-
-  print("hello")
-
+xxx
 
 
 .. rubric:: References

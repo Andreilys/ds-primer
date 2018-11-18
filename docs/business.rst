@@ -1,7 +1,7 @@
-.. python:
+.. business:
 
 ========
-Python
+Business
 ========
 
 .. contents:: :local:

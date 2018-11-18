@@ -1,7 +1,7 @@
-.. python:
+.. communication:
 
 ========
-Python
+Communication
 ========
 
 .. contents:: :local:

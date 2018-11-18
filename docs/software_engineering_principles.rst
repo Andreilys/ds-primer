@@ -1,7 +1,7 @@
-.. python:
+.. software_engineering_principles:
 
 ========
-Python
+Software Engineering Principles
 ========
 
 .. contents:: :local:

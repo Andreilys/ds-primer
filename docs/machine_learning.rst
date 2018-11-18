@@ -1,7 +1,7 @@
-.. python:
+.. machine_learning:
 
 ========
-Python
+Machine Learning
 ========
 
 .. contents:: :local:

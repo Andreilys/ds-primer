@@ -1,7 +1,7 @@
-.. python:
+.. databases:
 
 ========
-Python
+Databases
 ========
 
 .. contents:: :local:

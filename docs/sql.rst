@@ -1,7 +1,7 @@
-.. python:
+.. sql:
 
 ========
-Python
+SQL
 ========
 
 .. contents:: :local:

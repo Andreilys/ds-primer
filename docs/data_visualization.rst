@@ -1,7 +1,7 @@
-.. python:
+.. data_visualization:
 
 ========
-Python
+Data Visualization
 ========
 
 .. contents:: :local:

@@ -1,7 +1,7 @@
-.. python:
+.. storytelling_and_presentations:
 
 ========
-Python
+Storytelling and Presentations
 ========
 
 .. contents:: :local:

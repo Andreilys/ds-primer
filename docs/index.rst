@@ -13,39 +13,38 @@ A Primer that covers both technical and non-technical topics associated with Dat
     :caption: Technical
     :maxdepth: 1
 
-    python
-    bash
-    sql
-    databases
-    machine_learning
-    data_engineering
-    big_data
-    statistics
-    probability
-    data_visualization
-    software_engineering_principles
-    glossary
+    python (TODO) <python>
+    bash (TODO) <bash>
+    sql (TODO) <sql>
+    databases (TODO) <databases>
+    machine_learning (TODO) <machine_learning>
+    data_engineering (TODO) <data_engineering>
+    big_data (TODO) <big_data>
+    statistics (TODO) <statistics>
+    probability (TODO) <probability>
+    data_visualization (TODO) <data_visualization>
+    software_engineering_principles (TODO) <software_engineering_principles>
+    glossary (TODO) <glossary>
 
 .. toctree::
     :caption: Non-Technical
     :maxdepth: 1
 
-    metalearning
-    stakeholder_management
-    storytelling_and_presentations
-    business_101
-    product_101
-    interview_prep
-    kaggle_guide
-    ethics
+    metalearning (TODO) <metalearning>
+    stakeholder_management (TODO) <stakeholder_management>
+    storytelling_and_presentations (TODO) <storytelling_and_presentations>
+    business (TODO) <business>
+    communication (TODO) <communication>
+    product (TODO) <product>
+    interview_prep (TODO) <interview_prep>
+    kaggle (TODO) <kaggle>
+    ethics (TODO) <ethics>
 
 .. toctree::
     :maxdepth: 1
     :caption: Resources
     :titlesonly:
 
-    tools
-    communities
     datasets
     libraries
     papers
