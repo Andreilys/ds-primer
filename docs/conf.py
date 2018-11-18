@@ -106,7 +106,7 @@ html_static_path = ['_static']
 # -- Options for HTMLHelp output ------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'MLCheatsheetdoc'
+htmlhelp_basename = 'DSPrimerdoc'
 
 
 # -- Options for LaTeX output ---------------------------------------------

@@ -3,7 +3,7 @@
 Data Science Primer
 ===========================
 
-Brief visual explanations of machine learning concepts with diagrams, code examples and links to resources for learning more.
+A short primer covering both technical and non-technical topics associated with Data Science.
 
 .. warning::
 
@@ -13,7 +13,7 @@ Brief visual explanations of machine learning concepts with diagrams, code examp
     :caption: Technical
     :maxdepth: 1
 
-    Python
+    python
     Bash
     SQL
     Databases
