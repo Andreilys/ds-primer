@@ -13,12 +13,12 @@ A Primer that covers both technical and non-technical topics associated with Dat
     :caption: Technical
     :maxdepth: 1
 
-    python (TODO) <python>
-    bash (TODO) <bash>
-    sql (TODO) <sql>
-    databases (TODO) <databases>
-    machine_learning (TODO) <machine_learning>
-    data_engineering (TODO) <data_engineering>
+    Python (TODO) <python>
+    Bash (TODO) <bash>
+    Sql (TODO) <sql>
+    Databases (TODO) <databases>
+    Machine Learning (TODO) <machine_learning>
+    Data Engineering (TODO) <data_engineering>
     big_data (TODO) <big_data>
     statistics (TODO) <statistics>
     probability (TODO) <probability>
