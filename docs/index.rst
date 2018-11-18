@@ -19,26 +19,26 @@ A Primer that covers both technical and non-technical topics associated with Dat
     Databases (TODO) <databases>
     Machine Learning (TODO) <machine_learning>
     Data Engineering (TODO) <data_engineering>
-    big_data (TODO) <big_data>
-    statistics (TODO) <statistics>
-    probability (TODO) <probability>
-    data_visualization (TODO) <data_visualization>
-    software_engineering_principles (TODO) <software_engineering_principles>
-    glossary (TODO) <glossary>
+    Big Data (TODO) <big_data>
+    Statistics (TODO) <statistics>
+    Probability (TODO) <probability>
+    Data Visualization (TODO) <data_visualization>
+    Software Engineering Principles (TODO) <software_engineering_principles>
+    Glossary (TODO) <glossary>
 
 .. toctree::
     :caption: Non-Technical
     :maxdepth: 1
 
     metalearning (TODO) <metalearning>
-    stakeholder_management (TODO) <stakeholder_management>
-    storytelling_and_presentations (TODO) <storytelling_and_presentations>
-    business (TODO) <business>
-    communication (TODO) <communication>
-    product (TODO) <product>
-    interview_prep (TODO) <interview_prep>
-    kaggle (TODO) <kaggle>
-    ethics (TODO) <ethics>
+    Stakeholder Management (TODO) <stakeholder_management>
+    Storytelling and presentations (TODO) <storytelling_and_presentations>
+    Business (TODO) <business>
+    Communication (TODO) <communication>
+    Product (TODO) <product>
+    Interview Prep (TODO) <interview_prep>
+    Kaggle (TODO) <kaggle>
+    Ethics (TODO) <ethics>
 
 .. toctree::
     :maxdepth: 1
