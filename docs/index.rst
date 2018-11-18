@@ -15,7 +15,7 @@ A Primer that covers both technical and non-technical topics associated with Dat
 
     Python (TODO) <python>
     Bash (TODO) <bash>
-    Sql (TODO) <sql>
+    SQL (TODO) <sql>
     Databases (TODO) <databases>
     Machine Learning (TODO) <machine_learning>
     Data Engineering (TODO) <data_engineering>
@@ -30,7 +30,7 @@ A Primer that covers both technical and non-technical topics associated with Dat
     :caption: Non-Technical
     :maxdepth: 1
 
-    metalearning (TODO) <metalearning>
+    Metalearning (TODO) <metalearning>
     Stakeholder Management (TODO) <stakeholder_management>
     Storytelling and presentations (TODO) <storytelling_and_presentations>
     Business (TODO) <business>
