@@ -32,11 +32,10 @@ A Primer that covers both technical and non-technical topics associated with Dat
 
     Metalearning (TODO) <metalearning>
     Stakeholder Management (TODO) <stakeholder_management>
-    Storytelling and presentations (TODO) <storytelling_and_presentations>
-    Business (TODO) <business>
-    Communication (TODO) <communication>
+    Personal Communications (TODO) <communication>
     Product (TODO) <product>
     Interview Prep (TODO) <interview_prep>
+    Business (TODO) <business>
     Kaggle (TODO) <kaggle>
     Ethics (TODO) <ethics>
 
