@@ -34,3 +34,4 @@ Some code:
 .. rubric:: References
 
 .. [1] https://en.wikipedia.org/wiki/Derivative
+

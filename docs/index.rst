@@ -7,38 +7,38 @@ A short primer covering both technical and non-technical topics associated with 
 
 .. warning::
 
-    This document is under early stage development. If you find errors, please raise an `issue <https://github.com/bfortuner/ml-cheatsheet/issues>`_ or `contribute <https://github.com/bfortuner/ml-cheatsheet/blob/master/README.md>`_ a better definition!
+    This document is under early stage development. If you find errors, please raise an `issue <https://github.com/Andreilys/ds-primer/issues>`_ or `contribute <https://github.com/Andreilys/ds-primer/blob/master/README.md>`_ a better definition!
 
 .. toctree::
     :caption: Technical
     :maxdepth: 1
 
     python
-    Bash
-    SQL
-    Databases
-    Machine Learning
-    Data Engineering
-    Big Data
-    Statistics
-    Data Visualization
-    Software Engineering Principles
-    Git
+    bash
+    sql
+    databases
+    machine_learning
+    data_engineering
+    big_data
+    statistics
+    probability
+    data_visualization
+    software_engineering_principles
+    glossary
 
 .. toctree::
     :caption: Non-Technical
     :maxdepth: 1
 
-    Storytelling and Presentations
-    Stakeholder Management
-    Learning How To Learn
-    Influence and Persuasion
-    Business 101
-    Product Sense
-    Building A Portfolio
-    Interview Prep
-    A Guide to Kaggle
-    Data Science Ethics
+    storytelling_and_presentations
+    stakeholder_management
+    learning_how_to_learn
+    influence_and_persuasion
+    business_101
+    product_101
+    interview_prep
+    kaggle_guide
+    ethics
 
 .. toctree::
     :maxdepth: 1
@@ -60,10 +60,6 @@ A short primer covering both technical and non-technical topics associated with 
     How to contribute <contribute>
 
 
-.. https://en.wikipedia.org/wiki/Outline_of_machine_learning
-
-.. Indices and tables
-.. ------------------
 
 .. * :ref:`genindex`
 .. * :ref:`modindex`
