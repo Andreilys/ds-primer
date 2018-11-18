@@ -30,10 +30,9 @@ A Primer that covers both technical and non-technical topics associated with Dat
     :caption: Non-Technical
     :maxdepth: 1
 
-    storytelling_and_presentations
+    metalearning
     stakeholder_management
-    learning_how_to_learn
-    influence_and_persuasion
+    storytelling_and_presentations
     business_101
     product_101
     interview_prep

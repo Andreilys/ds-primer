@@ -1,7 +1,7 @@
-.. python:
+.. bash:
 
 ========
-Python
+Bash
 ========
 
 .. contents:: :local:
