@@ -11,22 +11,20 @@ Databases
 
 Introduction
 ============
-xxx
+  Databases can be explained at the most basic level as a way of storing, organizing and retrieving information.
+  Often times a data scientist will have to work with a database in order to retrieve the data they need to build their models or do data analysis.
 
-.. subj_1:
+.. Relational:
 
-Subj_1
+Relational
 ===========
 
 
-.. rubric:: Code
 
+.. Non-relational/NoSQL:
 
-Some code:
-::
-
-  print("hello")
-
+Non-relational/NoSQL
+===========
 
 
 .. rubric:: References

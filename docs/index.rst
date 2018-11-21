@@ -3,7 +3,9 @@
 Data Science Primer
 ===========================
 
-A Primer that covers both technical and non-technical topics associated with Data Science.
+The primary purpose of this primer is to give a cursory overview on both technical and non-technical topics associated with Data Science.
+
+It's not meant to be used as a comprehensive source on a topic, but as a quick overview with additional links for further learning.
 
 .. warning::
 
@@ -24,7 +26,7 @@ A Primer that covers both technical and non-technical topics associated with Dat
     Probability (TODO) <probability>
     Data Visualization (TODO) <data_visualization>
     Software Engineering Principles (TODO) <software_engineering_principles>
-    Glossary (TODO) <glossary>
+    glossary
 
 .. toctree::
     :caption: Non-Technical
