@@ -24,8 +24,8 @@ It's not meant to be used as a comprehensive source on a topic, but as a quick o
     Probability (TODO) <probability>
     Python (TODO) <python>
     Software Engineering Principles (TODO) <software_engineering_principles>
-    SQL (TODO) <sql>
     Statistics (TODO) <statistics>
+    SQL (TODO) <sql>
     glossary
 
 .. toctree::
