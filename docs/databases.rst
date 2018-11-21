@@ -66,6 +66,30 @@ Disadvantages
   - Poor performance with unstrucutred data types due to schema and type constraints
 
 
+Terminology
+===========
+Query
+  A query can be thought of as a single action that is taken on a database
+
+Transaction
+  A transaction is a sequence of queries that make up a single unit of work performed against a database.
+
+
+ACID
+  Atomicity, Consistency, Isolation, Durability
+
+Schema
+  A schema is the structure of a database
+
+Scalability
+  Scalability when databases are concerned has to do with how databases handle an increase in transactions as well as data stored. The two main types are vertical scalability, which is concerned with adding more capacity to a single machine by adding additional RAM, CPU, etc. Horizontal scalability has to do with adding more machines and splitting the work amongst them.
+
+Normalization
+  This is a technique of organizing tables within a relational database. It involves splitting up data into seperate tables to reduce redundancy and improve data integrity.
+
+Denormalization
+  This is a technique of organizing tables within a relational database. It involves combining tables to reduce the number of JOIN queries.
+
 .. rubric:: References
 
 .. [1] https://dzone.com/articles/the-types-of-modern-databases
