@@ -14,7 +14,8 @@ Introduction
 Databases in the most basic terms, serve as a way of storing, organizing and retrieving information.
 The two main kinds of databases are Relational and Non-Relational (or NoSQL). Within both categories are a host of other database types which the following sections will explore in detail.
 
-*Why It's Important:*
+**Why It's Important:**
+
 Often times a data scientist will have to work with a database in order to retrieve the data they need to build their models or to do data analysis.
 Thus it's important that a scientist familiarize themselves with the different types of databases and how to query them.
 
@@ -29,6 +30,7 @@ To get data out of a relational database, a data scientist would use SQL, with d
 When interacting with the database using SQL, whether creating a table or querying it, you are creating what is called a Transaction. Transactions in relational databases represent a unit of work performed against the database.
 
 An important concept with transactions is ACID, which stands for:
+
   - Atomicity:
   - Consistency:
   - Independence:
@@ -37,6 +39,7 @@ An important concept with transactions is ACID, which stands for:
 Types
 -------
 While there are many different kinds of relational databases, the most popular have proven to be:
+
   - PostgreSQL:
   - Oracle:
   - MySQL:
