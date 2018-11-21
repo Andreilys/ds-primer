@@ -15,31 +15,31 @@ It's not meant to be used as a comprehensive source on a topic, but as a quick o
     :caption: Technical
     :maxdepth: 1
 
-    Python (TODO) <python>
     Bash (TODO) <bash>
-    SQL (TODO) <sql>
-    Databases (TODO) <databases>
-    Machine Learning (TODO) <machine_learning>
-    Data Engineering (TODO) <data_engineering>
     Big Data (TODO) <big_data>
-    Statistics (TODO) <statistics>
-    Probability (TODO) <probability>
+    Databases (TODO) <databases>
+    Data Engineering (TODO) <data_engineering>
     Data Visualization (TODO) <data_visualization>
+    Machine Learning (TODO) <machine_learning>
+    Probability (TODO) <probability>
+    Python (TODO) <python>
     Software Engineering Principles (TODO) <software_engineering_principles>
+    SQL (TODO) <sql>
+    Statistics (TODO) <statistics>
     glossary
 
 .. toctree::
     :caption: Non-Technical
     :maxdepth: 1
 
+    Business (TODO) <business>
+    Ethics (TODO) <ethics>
+    Interview Prep (TODO) <interview_prep>
+    Kaggle (TODO) <kaggle>
     Metalearning (TODO) <metalearning>
-    Stakeholder Management (TODO) <stakeholder_management>
     Personal Communications (TODO) <communication>
     Product (TODO) <product>
-    Interview Prep (TODO) <interview_prep>
-    Business (TODO) <business>
-    Kaggle (TODO) <kaggle>
-    Ethics (TODO) <ethics>
+    Stakeholder Management (TODO) <stakeholder_management>
 
 .. toctree::
     :maxdepth: 1
