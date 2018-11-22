@@ -3,11 +3,11 @@
 Data Science Primer
 ===========================
 
-The primary purpose of this primer is to give a cursory overview of both technical and non-technical topics associated with Data Science. Typically most data science education resources focus on technical topics. However, in reality, mastering the non-technical topics can lead to great dividends in your professional capacity as a data scientist. 
+The primary purpose of this primer is to give a cursory overview of both technical and non-technical topics associated with Data Science. Typically educational resources focus on technical topics. However, in reality, mastering the non-technical topics can lead to great dividends in your professional capacity as a data scientist.
 
-Since data scientists come in all sorts of different flavors (Inference, Analytics, Algorithms according to Airbnb), there’s no real roadmap to this primer. Feel free to jump around to topics that interest you and which may align closer with your career trajectory.
+Since data scientists come in all sorts of different flavors (Inference, Analytics, and Algorithms according to Airbnb), there’s no real roadmap to studying this primer. Feel free to jump around to topics that interest you and which may align closer with your career trajectory.
 
-The audience is anyone who would like to get a quick overview of a topic that a data scientist may be expected to have proficiency in, or would benefit from increasing their knowledge in. It's not meant to serve as a replacement for a data science education, nor as a way to gain mastery in a topic. Hopefully reading through this primer you’ll be inspired to do some of your own learning, and can contribute your new knowledge back to this primer!
+Ultimately this resource is for anyone who would like to get a quick overview of a topic that a data scientist may be expected to have proficiency in, or would benefit from increasing their knowledge in. It's not meant to serve as a replacement for a Data Science education, nor as a way to gain mastery in a topic. Hopefully reading through this primer you’ll be inspired to do some of your own research, and can then contribute your new knowledge back to this primer!
 
 .. warning::
 
