@@ -1,22 +1,17 @@
-.. big_data:
+.. deep_learning:
 
 ========
-Big Data
+Deep Learning
 ========
 
 .. contents:: :local:
 
-https://www.quora.com/What-is-a-Hadoop-ecosystem
 
 .. _introduction:
 
 Introduction
 ============
 xxx
-
-.. image:: images/hadoop_ecosystem.png
-    :align: center
-
 
 .. subj_1:
 

@@ -12,7 +12,7 @@ Databases
 Introduction
 ============
 Databases in the most basic terms, serve as a way of storing, organizing and retrieving information.
-The two main kinds of databases are Relational and Non-Relational (or NoSQL). Within both categories are a host of other database types which the following sections will explore in detail.
+The two main kinds of databases are Relational and Non-Relational (NoSQL). Within both kinds of databases are a variety of other database sub-types which the following sections will explore in detail.
 
 **Why It's Important:**
 
@@ -23,43 +23,50 @@ Thus it's important that a scientist familiarize themselves with the different t
 
 Relational
 ===========
-A relational database is a collection of tables and the relationships that exist between these tables. These tables contain numerous columns (table attributes) with rows that represent the data within the table.
+A relational database is a collection of tables and the relationships that exist between these tables. These tables contain columns (table attributes) with rows that represent the data within the table.
+You can think of the column as the header indicating the name of the data being stored, and the row being the actual data points that are stored in the database.
 Often times these rows will have a unique identifier associated with them, called primary keys. Relationships between tables are created using foreign keys, whose primary function is to join tables together.
 
-To get data out of a relational database, a data scientist would use SQL, with different relational databases using slightly different versions of SQL. 
+To get data out of a relational database, you would use SQL, with different relational databases using slightly different versions of SQL.
 When interacting with the database using SQL, whether creating a table or querying it, you are creating what is called a Transaction. Transactions in relational databases represent a unit of work performed against the database.
 
-An important concept with transactions is ACID, which stands for:
+An important concept with transactions in relational databases is maintaining ACID, which stands for:
 
-  - Atomicity:
-  - Consistency:
-  - Independence:
-  - Durability:
+  - Atomicity: A transaction typically contains many queries. Atomicity guarantees that if one query fails, then the whole transaction fails, leaving the database unchanged.
+  - Consistency: This ensures that a transaction can only bring a database from one valid state to another, meaning a transaction cannot leave the database in a corrupt state.
+  - Isolation: Since transactions are executed concurrently, this property ensures that the database is left in the same state as if the transactions were executed sequentially.
+  - Durability: This property gurantees that once a transaction has been committed, its effects will remain regardless of any system failure.
 
 Types
 -------
-While there are many different kinds of relational databases, the most popular have proven to be:
+While there are many different kinds of relational databases, the most popular are:
 
-  - PostgreSQL:
-  - Oracle:
-  - MySQL:
-  - Microsoft SQL Server:
-  - DB2:
+  - PostgreSQL: An open-source object-relational database management system that is ACID-compliant and transactional.
+  - Oracle: A multi-model database management system that is produced and marketed by Oracle.
+  - MySQL: An open-source relational database management system with a proprietary paid version available for additional functionality.
+  - Microsoft SQL Server: A relational database management system developed by Microsoft.
+  - Maria DB: A MySQL compabtable database engine forked from MySQL.
 
 Advantages
 ----------
   - SQL standards are well defined and commonly accepted
-  - 
+  - Easy to categorize and store data that can later be queried
+  - Simple to understand, since the table structure and relationships are intuitive ato most users
+  - Data integrity, through strong data typing and validity checks to make sure that data falls within an acceptable range
 
 Disadvantages
 -------------
-  - Poor performance with unstrucutred data types due to schema and type constraints
-  - 
+  - Poor performance with unstructured data types due to schema and type constraints
+  - The cost of setting up and maintaining a relational database
+  - Can be slow and not scalable compared to NoSQL
+  - Unable to map certain kinds of data such as graphs
 
 .. Non-relational/NoSQL:
 
 Non-relational/NoSQL
 ===========
+Non-relational databases were a developed from a need to deal with the exponential growth in data being processed. 
+
 
 Types
 -------
