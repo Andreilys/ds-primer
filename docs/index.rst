@@ -40,7 +40,7 @@ Ultimately this resource is for anyone who would like to get a quick overview of
     Business (TODO) <business>
     Ethics (TODO) <ethics>
     Interview Prep (TODO) <interview_prep>
-    Metalearning (TODO) <metalearning>
+    Metalearning
     Personal Communications (TODO) <communication>
     Product (TODO) <product>
     Stakeholder Management (TODO) <stakeholder_management>
