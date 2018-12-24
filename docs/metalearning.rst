@@ -48,7 +48,8 @@ Below are a handful of strategies that when applied, can have a great impact on 
 * Helps develop correct mental representations
 * Provides feedback on what errors you’re making
 * Gives you an aspirational model for what good performance looks like.
-* Dynamic Testing: As you learn it’s important to have some sort of feedback loop to see how much you’re actually learning and where your holes are. The easiest way to do this is with flashcards, but other ways could include writing a blog post or explaining a concept to a friend who can point out inconsistencies. In doing so, you’ll quickly notice the gaps in your knowledge and the concepts you need to revisit in your future learning sessions.
+
+* Dynamic Testing*: As you learn it’s important to have some sort of feedback loop to see how much you’re actually learning and where your holes are. The easiest way to do this is with flashcards, but other ways could include writing a blog post or explaining a concept to a friend who can point out inconsistencies. In doing so, you’ll quickly notice the gaps in your knowledge and the concepts you need to revisit in your future learning sessions.
 
 *Pomodoro technique*: This is a technique I’ve been using consistently for the past few years and I’ve been very happy with it so far. The concept is pretty simple, you start a timer for either 25 or 50 minutes, after which you focus on one single thing. Once the timer is up, you have a 5 or 10-minute break before starting again.
 
@@ -87,7 +88,7 @@ Before iterating through these steps, it’s important to compile a set of tasks
 
 .. rubric:: Additional Resources
 
-.. [1] https://www.forbes.com/sites/stevenkotler/2013/06/02/learning-to-learn-faster-the-one-superpower-everyone-needs/#53a1a7f62dd7
-.. [2] https://static.coggle.it/diagram/WMbg3JvOtwABM9gV/t/learning-how-to-learn
-.. [3] https://coggle.it/diagram/V83cTEMcVU1E-DGf/t/learning-to-learn-cease-to-grow-%E2%80%9D/c52462e2ac70ccff427070e1cf650eacdbe1cf06cd0eb9f0013dc53a2079cc8a
-.. [4] https://www.coursera.org/learn/learning-how-to-learn
+.. * https://www.forbes.com/sites/stevenkotler/2013/06/02/learning-to-learn-faster-the-one-superpower-everyone-needs/#53a1a7f62dd7
+.. * https://static.coggle.it/diagram/WMbg3JvOtwABM9gV/t/learning-how-to-learn
+.. * https://coggle.it/diagram/V83cTEMcVU1E-DGf/t/learning-to-learn-cease-to-grow-%E2%80%9D/c52462e2ac70ccff427070e1cf650eacdbe1cf06cd0eb9f0013dc53a2079cc8a
+.. * https://www.coursera.org/learn/learning-how-to-learn
