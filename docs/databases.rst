@@ -65,7 +65,7 @@ Disadvantages
 
 Non-relational/NoSQL
 ===========
-Non-relational databases were a developed from a need to deal with the exponential growth in data being processed. 
+Non-relational databases were developed from a need to deal with the exponential growth in data that was being gathered and processed. 
 
 
 Types
