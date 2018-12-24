@@ -3,12 +3,11 @@
 Data Science Primer
 ===========================
 
-The primary purpose of this primer is to give a cursory overview of both technical and non-technical topics associated with Data Science. Typically educational resources focus on technical topics. However, in reality, mastering the non-technical topics can lead to great dividends in your professional capacity as a data scientist.
+The primary purpose of this primer is to give a cursory overview of both technical and non-technical topics associated with Data Science. Typically educational resources focus on technical topics. However, in reality, mastering the non-technical topics can lead to even greater dividends in your professional capacity as a data scientist.
 
-Since data scientists come in all sorts of different flavors (Inference, Analytics, and Algorithms according to Airbnb), there’s no real roadmap to studying this primer. Feel free to jump around to topics that interest you and which may align closer with your career trajectory.
+Since the task of a Data Scientist at any company can be vastly different (`Inference, Analytics, and Algorithms according to Airbnb <https://www.linkedin.com/pulse/one-data-science-job-doesnt-fit-all-elena-grewal/>`_), there’s no real roadmap to using this primer. Feel free to jump around to topics that interest you and which may align closer with your career trajectory.
 
-Ultimately this resource is for anyone who would like to get a quick overview of a topic that a data scientist may be expected to have proficiency in, or would benefit from increasing their knowledge in. It's not meant to serve as a replacement for a Data Science education, nor as a way to gain mastery in a topic. Hopefully reading through this primer you’ll be inspired to do some of your own research, and can then contribute your new knowledge back to this primer!
-
+Ultimately this resource is for anyone who would like to get a quick overview of a topic that a data scientist may be expected to have proficiency in. It's not meant to serve as a replacement for fundamental courses that contribute to a Data Science education, nor as a way to gain mastery in a topic. 
 
 .. warning::
 
@@ -40,7 +39,7 @@ Ultimately this resource is for anyone who would like to get a quick overview of
     Business (TODO) <business>
     Ethics (TODO) <ethics>
     Interview Prep (TODO) <interview_prep>
-    Metalearning
+    metalearning
     Personal Communications (TODO) <communication>
     Product (TODO) <product>
     Stakeholder Management (TODO) <stakeholder_management>
