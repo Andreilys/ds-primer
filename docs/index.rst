@@ -7,7 +7,7 @@ The primary purpose of this primer is to give a cursory overview of both technic
 
 Since the task of a Data Scientist at any company can be vastly different (`Inference, Analytics, and Algorithms according to Airbnb <https://www.linkedin.com/pulse/one-data-science-job-doesnt-fit-all-elena-grewal/>`_), there’s no real roadmap to using this primer. Feel free to jump around to topics that interest you and which may align closer with your career trajectory.
 
-Ultimately this resource is for anyone who would like to get a quick overview of a topic that a data scientist may be expected to have proficiency in. It's not meant to serve as a replacement for fundamental courses that contribute to a Data Science education, nor as a way to gain mastery in a topic. 
+Ultimately this resource is for anyone who would like to get a quick overview of a topic that a data scientist may be expected to have proficiency in. It's not meant to serve as a replacement for fundamental courses that contribute to a Data Science education, nor as a way to gain mastery in a topic.
 
 .. warning::
 
@@ -19,7 +19,7 @@ Ultimately this resource is for anyone who would like to get a quick overview of
 
     Bash (TODO) <bash>
     Big Data (TODO) <big_data>
-    Databases (TODO) <databases>
+    databases
     Data Engineering (TODO) <data_engineering>
     Data Visualization (TODO) <data_visualization>
     Deep Learning (TODO) <deep_learning>

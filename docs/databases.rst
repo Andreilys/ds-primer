@@ -57,7 +57,6 @@ Advantages
 Disadvantages
 -------------
   - Poor performance with unstructured data types due to schema and type constraints
-  - The cost of setting up and maintaining a relational database
   - Can be slow and not scalable compared to NoSQL
   - Unable to map certain kinds of data such as graphs
 
@@ -66,25 +65,38 @@ Disadvantages
 Non-relational/NoSQL
 ===========
 Non-relational databases were developed from a need to deal with the exponential growth in data that was being gathered and processed. 
+Additionally dealing with scalability, multi-structured data and geo-distribution were a few more reasons that NoSQL was created.
+There are a variety of NoSQL implementations, each with their own approach to tackling these problems. 
 
 
 Types
 -------
-  - Key-value Stores:
-  - Wide column Stores:
-  - Document Stores:
-  - Graph Databases:
-  - Search Engine:
+  - Key-value Store: One of the simpler NoSQL stores that works by assigning a value for each key. 
+    The database then uses a hash table to store unique keys and pointers for each data value. 
+    They can be used to store user session data, and examples of these types of databases include Redis and Amazon Dynamo.
+  - Document Store: Similar to a key-value store, however in this case the value contains structured or semi-structured data and is referred to as a document.
+    A use case for document store could be for a blogging platform. Examples of document stores include MongoDB and Apache CouchDB.
+  - Column Store: In this implementation, data is stored in cells grouped in columns of data rather than rows of data, with each column being grouped into a column family.
+    These can be used in content management systems, and examples of these types of databases include Cassandra and Apache Hbase.
+  - Graph Store: These are based on the Entity - Attribute - Value model. 
+    Entities will have associated attributes and subsequent values when data is inserted.
+    Nodes will store data about each entity, along with the relationships between nodes. 
+    Graph stores can be used in applications such as social networks, and examples of these types of databases include Neo4j and ArangoDB.
 
 Advantages
 ----------
   - High availability
   - Schema free or schema-on-read options
+  - Ability to rapidly prototype applications
+  - Elastic scalability
+  - Can store massive amounts of data
 
 
 Disadvantages
 -------------
-  - 
+  - Since most NoSQL databases use eventual consistency instead of ACID, there may be a risk that data may be out of sync
+  - Less support and maturity in the NoSQL ecosystem
+
 
 Terminology
 ===========
@@ -112,5 +124,7 @@ Denormalization
 
 .. rubric:: References
 
-.. [1] https://dzone.com/articles/the-types-of-modern-databases
-.. [2] 
+* https://dzone.com/articles/the-types-of-modern-databases
+* https://www.mongodb.com/nosql-explained
+* https://www.channelfutures.com/cloud-2/the-limitations-of-nosql-database-storage-why-nosqls-not-perfect
+* https://opensourceforu.com/2017/05/different-types-nosql-databases/
