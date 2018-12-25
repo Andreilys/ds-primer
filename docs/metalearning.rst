@@ -88,7 +88,7 @@ Before iterating through these steps, it’s important to compile a set of tasks
 
 .. rubric:: Additional Resources
 
-.. * https://www.forbes.com/sites/stevenkotler/2013/06/02/learning-to-learn-faster-the-one-superpower-everyone-needs/#53a1a7f62dd7
-.. * https://static.coggle.it/diagram/WMbg3JvOtwABM9gV/t/learning-how-to-learn
-.. * https://coggle.it/diagram/V83cTEMcVU1E-DGf/t/learning-to-learn-cease-to-grow-%E2%80%9D/c52462e2ac70ccff427070e1cf650eacdbe1cf06cd0eb9f0013dc53a2079cc8a
-.. * https://www.coursera.org/learn/learning-how-to-learn
+* https://www.forbes.com/sites/stevenkotler/2013/06/02/learning-to-learn-faster-the-one-superpower-everyone-needs/#53a1a7f62dd7
+* https://static.coggle.it/diagram/WMbg3JvOtwABM9gV/t/learning-how-to-learn
+* https://coggle.it/diagram/V83cTEMcVU1E-DGf/t/learning-to-learn-cease-to-grow-%E2%80%9D/c52462e2ac70ccff427070e1cf650eacdbe1cf06cd0eb9f0013dc53a2079cc8a
+* https://www.coursera.org/learn/learning-how-to-learn
