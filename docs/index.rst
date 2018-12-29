@@ -38,7 +38,7 @@ Ultimately this resource is for anyone who would like to get a quick overview of
     Building A Portfolio (TODO) <building_a_portfolio>
     Business (TODO) <business>
     Ethics (TODO) <ethics>
-    Interview Prep (TODO) <interview_prep>
+    Job Interviews (TODO) <job_interview>
     metalearning
     Personal Communications (TODO) <communication>
     Product (TODO) <product>

@@ -11,14 +11,34 @@ Kaggle
 
 Introduction
 ============
-xxx
+Entry level data science jobs have become increasingly competitive as the field receives more media coverage. As a result its important that you take the steps necessary
+to stand out, one of which is building a portfolio.
 
-.. subj_1:
+Looking back, 
 
-Subj_1
+.. personal_projects:
+
+Personal Projects
 ===========
 xxx
 
+.. written:
+
+Written 
+===========
+xxx
+
+.. public_speaking:
+
+Public Speaking 
+===========
+xxx
+
+.. Open Source:
+
+Open Source
+===========
+xxx
 
 .. rubric:: References
 

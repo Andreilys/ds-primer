@@ -1,7 +1,7 @@
 .. interview_prep:
 
 ========
-Interview Prep
+Job Interviews
 ========
 
 .. contents:: :local:
