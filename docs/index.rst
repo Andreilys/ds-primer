@@ -21,13 +21,13 @@ Ultimately this resource is for anyone who would like to get a quick overview of
     Big Data (TODO) <big_data>
     databases
     Data Engineering (TODO) <data_engineering>
+    Data Wrangling (TODO) <data_wrangling>
     Data Visualization (TODO) <data_visualization>
     Deep Learning (TODO) <deep_learning>
     Machine Learning (TODO) <machine_learning>
-    Probability (TODO) <probability>
     Python (TODO) <python>
     Software Engineering Principles (TODO) <software_engineering_principles>
-    Statistics (TODO) <statistics>
+    Statistics and Probability (TODO) <statistics_and_probability>
     SQL (TODO) <sql>
     glossary
 
