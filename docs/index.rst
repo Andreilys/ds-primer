@@ -35,11 +35,12 @@ Ultimately this resource is for anyone who would like to get a quick overview of
     :caption: Non-Technical
     :maxdepth: 1
 
+    learning_strategies
     Building A Portfolio (TODO) <building_a_portfolio>
     Business (TODO) <business>
     Ethics (TODO) <ethics>
     Job Interviews (TODO) <job_interviews>
-    metalearning
+    learning_strategies
     Personal Communications (TODO) <communication>
     Product (TODO) <product>
     Stakeholder Management (TODO) <stakeholder_management>
