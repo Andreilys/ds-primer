@@ -1,7 +1,7 @@
-.. metalearning:
+.. learning_how_to_learn:
 
 ========
-Metalearning
+Learning How To Learn
 ========
 
 .. contents:: :local:
