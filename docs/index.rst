@@ -42,7 +42,7 @@ Data Science education, nor as a way to gain mastery in a topic.
 
     Business (TODO) <business>
     Ethics (TODO) <ethics>
-    job_interviews
+    mastering_the_data_science_interview
     learning_how_to_learn
     Personal Communications (TODO) <communication>
     Product (TODO) <product>

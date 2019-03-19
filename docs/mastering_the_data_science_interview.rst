@@ -1,4 +1,4 @@
-.. interview_prep:
+.. mastering_the_data_science_interview:
 
 ========
 Mastering The Data Science Interview
