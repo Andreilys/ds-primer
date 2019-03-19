@@ -32,7 +32,6 @@ Data Science education, nor as a way to gain mastery in a topic.
     Deep Learning (TODO) <deep_learning>
     Machine Learning (TODO) <machine_learning>
     Python (TODO) <python>
-    Software Engineering Principles (TODO) <software_engineering_principles>
     Statistics and Probability (TODO) <statistics_and_probability>
     SQL (TODO) <sql>
     glossary
@@ -43,7 +42,7 @@ Data Science education, nor as a way to gain mastery in a topic.
 
     Business (TODO) <business>
     Ethics (TODO) <ethics>
-    Job Interviews (TODO) <job_interviews>
+    job_interviews
     learning_how_to_learn
     Personal Communications (TODO) <communication>
     Product (TODO) <product>
