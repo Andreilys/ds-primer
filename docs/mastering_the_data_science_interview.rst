@@ -12,16 +12,16 @@ Mastering The Data Science Interview
 Introduction
 ============
 
-In 2012, Harvard Business Review announced that `Data Science will be the sexiest job of the 21st Century<https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century>`_. Since then, the hype around data science has only grown. Recent reports have shown that `demand for data scientists far exceeds the supply<https://insidebigdata.com/2018/08/19/infographic-data-scientist-shortage/>`_.
+In 2012, Harvard Business Review announced that `Data Science will be the sexiest job of the 21st Century <https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century>`_. Since then, the hype around data science has only grown. Recent reports have shown that `demand for data scientists far exceeds the supply <https://insidebigdata.com/2018/08/19/infographic-data-scientist-shortage/>`_.
 
 However, the reality is most of these jobs are for those who already have experience. Entry level data science jobs, on the other hand, are extremely competitive due to the supply/demand dynamics. Data scientists come from all kinds of backgrounds, ranging from social sciences to traditional computer science backgrounds. Many people also see data science as a chance to rebrand themselves which results in a huge influx of people looking to land their first role.
 
-To make matters more complicated, unlike software development positions which have more standardized interview processes, data science interviews can have huge variations. This is partly because as an industry, there still isn’t an agreed upon definition of a data scientist. Airbnb recognized this and decided to split their `data scientists into three paths<https://www.linkedin.com/pulse/one-data-science-job-doesnt-fit-all-elena-grewal/>`_: Algorithms, Inference and Analytics.
+To make matters more complicated, unlike software development positions which have more standardized interview processes, data science interviews can have huge variations. This is partly because as an industry, there still isn’t an agreed upon definition of a data scientist. Airbnb recognized this and decided to split their `data scientists into three paths <https://www.linkedin.com/pulse/one-data-science-job-doesnt-fit-all-elena-grewal/>`_: Algorithms, Inference and Analytics.
 
 .. image:: images/data_science_types.png
     :align: center
 
-So before starting to search for a role, it’s important to determine what flavor of data science appeals to you. Based on your response to that, what you study and what questions you’ll be asked will vary. Despite the differences in the types, generally speaking, they’ll follow a similar interview loop although the particular questions asked may vary. In this article, we’ll explore what to expect at each step of the interview process, along with some tips and ways to prepare. If you’re looking for a list of data science questions that may come up in an interview, you should consider reading `this<https://towardsdatascience.com/data-science-interview-guide-4ee9f5dc778>`_ and `this<https://www.analyticsvidhya.com/blog/2018/06/comprehensive-data-science-machine-learning-interview-guide/>`_.
+So before starting to search for a role, it’s important to determine what flavor of data science appeals to you. Based on your response to that, what you study and what questions you’ll be asked will vary. Despite the differences in the types, generally speaking, they’ll follow a similar interview loop although the particular questions asked may vary. In this article, we’ll explore what to expect at each step of the interview process, along with some tips and ways to prepare. If you’re looking for a list of data science questions that may come up in an interview, you should consider reading `this <https://towardsdatascience.com/data-science-interview-guide-4ee9f5dc778>`_ and `this <https://www.analyticsvidhya.com/blog/2018/06/comprehensive-data-science-machine-learning-interview-guide/>`_.
 
 .. image:: images/interview_pipeline.png
     :align: center
@@ -32,7 +32,7 @@ So before starting to search for a role, it’s important to determine what flav
 The Coding Challenge
 ===========
 
-Coding challenges can range from a simple Fizzbuzz question to more complicated problems like building a time series forecasting model using messy data. These challenges will be timed (ranging anywhere from 30mins to one week) based on how complicated the questions are. Challenges can be hosted on sites such as `HackerRank<https://www.hackerrank.com/>`_, `CoderByte<https://coderbyte.com/>`_introduction, and even internal company solutions.
+Coding challenges can range from a simple Fizzbuzz question to more complicated problems like building a time series forecasting model using messy data. These challenges will be timed (ranging anywhere from 30mins to one week) based on how complicated the questions are. Challenges can be hosted on sites such as `HackerRank <https://www.hackerrank.com/>`_, `CoderByte <https://coderbyte.com/>`_introduction, and even internal company solutions.
 
 More often than not, you’ll be provided with written test cases that will tell you if you’ve passed or failed a question. This will typically consider both correctness as well as complexity (i.e. how long did it take to run your code). If you’re not provided with tests, it’s a good idea to write your own. With data science coding challenges you may even encounter multiple-choice questions on statistics so make sure you ask your recruiter what exactly you’ll be tested on.
 
@@ -40,11 +40,11 @@ When you’re doing a coding challenge, it’s important to keep in mind that co
 
 *Preparation:*
 
-1. Practice questions on `Leetcode<https://leetcode.com/>`_ which has both SQL and traditional data structures/algorithm questions
+1. Practice questions on `Leetcode <https://leetcode.com/>`_ which has both SQL and traditional data structures/algorithm questions
 
-2. Review `Brilliant<https://brilliant.org/>`_ for math and statistics questions.
+2. Review `Brilliant <https://brilliant.org/>`_ for math and statistics questions.
 
-3. `SQL Zoo<https://sqlzoo.net/>`_ and `Mode Analytics<https://mode.com/sql-tutorial/introduction-to-sql/>`_ both offer various SQL exercises you can solve in your browser.
+3. `SQL Zoo <https://sqlzoo.net/>`_ and `Mode Analytics <https://mode.com/sql-tutorial/introduction-to-sql/>`_ both offer various SQL exercises you can solve in your browser.
 
 *Tips:*
 
@@ -94,7 +94,7 @@ Remember, interviews are a two-way street so it would be in your best interest t
 The Technical Call
 ===========
 
-At this stage of the interview process, you’ll have an opportunity to be interviewed by a technical member of the team. Calls such as these are typically conducted using platforms such as `Coderpad<https://coderpad.io/>`_, which includes a code editor along with a way to run your code. Occasionally you may be asked to write code in a Google doc. Thus you should be comfortable coding without any syntax highlighting or code completion. Language-wise, Python and SQL are typically the two that you’ll be asked to write in, however, this can differ based on the role and company.
+At this stage of the interview process, you’ll have an opportunity to be interviewed by a technical member of the team. Calls such as these are typically conducted using platforms such as `Coderpad <https://coderpad.io/>`_, which includes a code editor along with a way to run your code. Occasionally you may be asked to write code in a Google doc. Thus you should be comfortable coding without any syntax highlighting or code completion. Language-wise, Python and SQL are typically the two that you’ll be asked to write in, however, this can differ based on the role and company.
 
 Questions at this stage can range in complexity from a simple SQL question solved with a windows function to problems involving Dynamic Programming. Regardless of the difficulty, you should always ask clarifying questions before starting to code. Once you have a good understanding of the problem and expectations, start with a brute-force solution so that you have at least something to work with. However, make sure you tell your interviewer that you’re solving it first in a non-optimal way before thinking about optimization. After you have something working, start to optimize your solution and make your code more readable. Throughout the process, it’s helpful to verbalize your approach, since interviewers may occasionally help guide you in the right direction.
 
@@ -102,9 +102,9 @@ If you have a few minutes at the end of the interview, take advantage of the fac
 
 *Preparation:*
 
-1. If the data science position you’re interviewing for is part of the engineering organization, make sure to read `Cracking The Coding Interview<https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850>`_ and `Elements of Programming Interviews<https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836>`_ since you may have a software engineer conducting the technical screen.
+1. If the data science position you’re interviewing for is part of the engineering organization, make sure to read `Cracking The Coding Interview <https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850>`_ and `Elements of Programming Interviews <https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836>`_ since you may have a software engineer conducting the technical screen.
 
-1. Flashcards are typically the best way to review machine learning theory which may come up at this stage. You can either make your own or purchase `this set for $12<https://machinelearningflashcards.com/>`_. `The Machine Learning Cheatsheet<https://ml-cheatsheet.readthedocs.io/en/latest/>`_ is also a good resource to review.
+1. Flashcards are typically the best way to review machine learning theory which may come up at this stage. You can either make your own or purchase `this set for $12 <https://machinelearningflashcards.com/>`_. `The Machine Learning Cheatsheet <https://ml-cheatsheet.readthedocs.io/en/latest/>`_ is also a good resource to review.
 
 2. Look at Glassdoor to get some insight into the type of questions that may come up.
 
@@ -114,7 +114,7 @@ If you have a few minutes at the end of the interview, take advantage of the fac
 
 1. It’s okay to ask for help if you’re stuck.
 
-2. Practice mock technical calls with a friend or use a platform like `interviewing.io<http://www.interviewing.io>`_.
+2. Practice mock technical calls with a friend or use a platform like `interviewing.io <http://www.interviewing.io>`_.
 
 3. Don’t be afraid to ask for a minute or two to think about a problem before you start solving it. Once you do start, it’s important to walk your interviewer through your approach.
 
@@ -127,13 +127,13 @@ Take home’s have been rising in popularity within data science interview loops
 
 When possible, try to ask clarifying questions to make sure you know what they’re testing you on and who your audience will be. If the audience for your take home is business stakeholders, it’s not a good idea to fill your slides with technical jargon. Instead, focus on actionable insights and recommendations and leave the technical jargon for the appendix.
 
-While all take homes may differ in their objectives, the common denominator is that you’ll be receiving data from the company. So regardless of what they’ve asked you to do, the first step will always be Exploratory Data Analysis. Luckily there are some automated EDA solutions, such as `SpeedML<https://speedml.com/automate-exploratory-data-analysis/>`_. Primarily what you want to do here is investigate peculiarities in the data. More often than not, the company will have synthetically generated the data, leaving specific easter eggs for you to find (e.g. A power law distribution with customer revenue).
+While all take homes may differ in their objectives, the common denominator is that you’ll be receiving data from the company. So regardless of what they’ve asked you to do, the first step will always be Exploratory Data Analysis. Luckily there are some automated EDA solutions, such as `SpeedML <https://speedml.com/automate-exploratory-data-analysis/>`_. Primarily what you want to do here is investigate peculiarities in the data. More often than not, the company will have synthetically generated the data, leaving specific easter eggs for you to find (e.g. A power law distribution with customer revenue).
 
 Once you finish your take-home, try to get some feedback from friends or mentors. Often if you’ve been working on a take-home for long enough you may start to miss the forest for the trees, so it’s always good to get feedback from someone who doesn’t have the context you do.
 
 *Preparation:*
 
-1. Practice take-home challenges which you can either purchase from `datamasked<https://datamasked.com/>`_ or by looking at the answers without the questions on this `Github repo<https://github.com/JifuZhao/DS-Take-Home>`_.
+1. Practice take-home challenges which you can either purchase from `datamasked <https://datamasked.com/>`_ or by looking at the answers without the questions on this `Github repo <https://github.com/JifuZhao/DS-Take-Home>`_.
 
 2. Brush up on libraries and tools that may help with your work. For example SpeedML or Tableau for rapid data visualization.
 
@@ -160,7 +160,7 @@ Make sure to ask your recruiter for a list of people who will be interviewing yo
 
 *Preparation:*
 
-1. Read as much as you can about the company. The company website, `CrunchBase<https://www.crunchbase.com/>`_, Wikipedia, recent news articles, `Blind<https://www.teamblind.com/articles/Topics>`_, `Glassdoor<https://www.glassdoor.com/>`_, all serve as great resources for information gathering.
+1. Read as much as you can about the company. The company website, `CrunchBase <https://www.crunchbase.com/>`_, Wikipedia, recent news articles, `Blind <https://www.teamblind.com/articles/Topics>`_, `Glassdoor <https://www.glassdoor.com/>`_, all serve as great resources for information gathering.
 
 2. Do some mock interviews with a friend who can give you feedback on any verbal tics you may exhibit or holes in your answers. This is especially helpful if you have a take-home presentation that you’ll be giving at the on-site.
 
@@ -195,7 +195,7 @@ When you’re negotiating, there are various levers you can pull. The three main
 
 *Preparation:*
 
-1. One of the best resources on negotiation is an `article written by Haseeb Qureshi<https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/>`_ that details how he went from boot camp grad to receiving offers from Google, Airbnb and many others.
+1. One of the best resources on negotiation is an `article written by Haseeb Qureshi <https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/>`_ that details how he went from boot camp grad to receiving offers from Google, Airbnb and many others.
 
 *Tips:*
 
