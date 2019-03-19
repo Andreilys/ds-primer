@@ -32,14 +32,13 @@ So before starting to search for a role, it’s important to determine what flav
 The Coding Challenge
 ===========
 
-Coding challenges can range from a simple Fizzbuzz question to more complicated problems like building a time series forecasting model using messy data. These challenges will be timed (ranging anywhere from 30mins to one week) based on how complicated the questions are. Challenges can be hosted on sites such as `HackerRank <https://www.hackerrank.com/>`_, `CoderByte <https://coderbyte.com/>`_introduction, and even internal company solutions.
+Coding challenges can range from a simple Fizzbuzz question to more complicated problems like building a time series forecasting model using messy data. These challenges will be timed (ranging anywhere from 30mins to one week) based on how complicated the questions are. Challenges can be hosted on sites such as `HackerRank <https://www.hackerrank.com/>`_, `CoderByte <https://coderbyte.com/>`_, and even internal company solutions.
 
 More often than not, you’ll be provided with written test cases that will tell you if you’ve passed or failed a question. This will typically consider both correctness as well as complexity (i.e. how long did it take to run your code). If you’re not provided with tests, it’s a good idea to write your own. With data science coding challenges you may even encounter multiple-choice questions on statistics so make sure you ask your recruiter what exactly you’ll be tested on.
 
 When you’re doing a coding challenge, it’s important to keep in mind that companies aren’t always looking for the ‘correct’ solution. They may also be looking for code readability, good design, or even a specific optimal solution. So don’t take it personally when even after passing all the test cases, you didn’t get to the next stage in the interview process.
 
 *Preparation:*
-
 1. Practice questions on `Leetcode <https://leetcode.com/>`_ which has both SQL and traditional data structures/algorithm questions
 
 2. Review `Brilliant <https://brilliant.org/>`_ for math and statistics questions.
@@ -47,7 +46,6 @@ When you’re doing a coding challenge, it’s important to keep in mind that co
 3. `SQL Zoo <https://sqlzoo.net/>`_ and `Mode Analytics <https://mode.com/sql-tutorial/introduction-to-sql/>`_ both offer various SQL exercises you can solve in your browser.
 
 *Tips:*
-
 1. Before you start coding, read through all the questions. This allows your unconscious mind to start working on problems in the background.
 
 2. Start with the hardest problem first, when you hit a snag, move to the simpler problem before returning to the harder one.
@@ -70,7 +68,6 @@ Keep in mind the person you’re speaking to is unlikely to be technical, so the
 Remember, interviews are a two-way street so it would be in your best interest to identify any red flags before committing more time to the interviewing with this particular company.
 
 *Preparation:*
-
 1. Read the role and company description.
 
 2. Look up who your interview is going to be and try to find areas of rapport. Perhaps you both worked in a particular city or volunteer at similar nonprofits.
@@ -78,7 +75,6 @@ Remember, interviews are a two-way street so it would be in your best interest t
 3. Read over your resume before getting on the call.
 
 *Tips:*
-
 1. Come prepared with questions.
 
 2. Keep your resume in clear view.
@@ -101,7 +97,6 @@ Questions at this stage can range in complexity from a simple SQL question solve
 If you have a few minutes at the end of the interview, take advantage of the fact that you’re speaking to a technical member of the team. Ask them about coding standards and processes, how the team handles work, and what their day to day looks like.
 
 *Preparation:*
-
 1. If the data science position you’re interviewing for is part of the engineering organization, make sure to read `Cracking The Coding Interview <https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850>`_ and `Elements of Programming Interviews <https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836>`_ since you may have a software engineer conducting the technical screen.
 
 1. Flashcards are typically the best way to review machine learning theory which may come up at this stage. You can either make your own or purchase `this set for $12 <https://machinelearningflashcards.com/>`_. `The Machine Learning Cheatsheet <https://ml-cheatsheet.readthedocs.io/en/latest/>`_ is also a good resource to review.
@@ -111,7 +106,6 @@ If you have a few minutes at the end of the interview, take advantage of the fac
 3. Research who is going to interview you. A machine learning engineer with a Ph.D. will interview you differently than a data analyst.
 
 *Tips:*
-
 1. It’s okay to ask for help if you’re stuck.
 
 2. Practice mock technical calls with a friend or use a platform like `interviewing.io <http://www.interviewing.io>`_.
@@ -132,13 +126,11 @@ While all take homes may differ in their objectives, the common denominator is t
 Once you finish your take-home, try to get some feedback from friends or mentors. Often if you’ve been working on a take-home for long enough you may start to miss the forest for the trees, so it’s always good to get feedback from someone who doesn’t have the context you do.
 
 *Preparation:*
-
 1. Practice take-home challenges which you can either purchase from `datamasked <https://datamasked.com/>`_ or by looking at the answers without the questions on this `Github repo <https://github.com/JifuZhao/DS-Take-Home>`_.
 
 2. Brush up on libraries and tools that may help with your work. For example SpeedML or Tableau for rapid data visualization.
 
 *Tips:*
-
 1. Some companies deliberately provide a take-home that requires you to email them to get additional information, so don’t be afraid to get in touch!
 
 2. A good take home can often offset any poor performance at an onsite. The rationale being that despite not knowing how to solve a particular interview problem you’ve demonstrated competency in solving problems that they may encounter on a daily basis. So if given the choice between doing more Leetcode problems or polishing your onsite presentation, it’s worthwhile to focus on the latter.
@@ -159,7 +151,6 @@ It’s important to remember that any company that has gotten you to this stage 
 Make sure to ask your recruiter for a list of people who will be interviewing you so that you have a chance to do some research beforehand. If you’re interviewing with a director, you should focus on preparing for higher level questions such as company strategy and culture. On the other hand, if you’re interviewing with a software engineer it’s likely that they’ll ask you to whiteboard a programming question. As mentioned before, the person’s background will influence the type of questions they’ll ask.
 
 *Preparation:*
-
 1. Read as much as you can about the company. The company website, `CrunchBase <https://www.crunchbase.com/>`_, Wikipedia, recent news articles, `Blind <https://www.teamblind.com/articles/Topics>`_, `Glassdoor <https://www.glassdoor.com/>`_, all serve as great resources for information gathering.
 
 2. Do some mock interviews with a friend who can give you feedback on any verbal tics you may exhibit or holes in your answers. This is especially helpful if you have a take-home presentation that you’ll be giving at the on-site.
@@ -169,7 +160,6 @@ Make sure to ask your recruiter for a list of people who will be interviewing yo
 4. If you have any software engineers on your onsite day, there’s a good chance you’ll need to brush up on your data structures and algorithms.
 
 *Tips:*
-
 1. Don’t be too serious. Most of these interviewers would rather be back at their desk working on their assigned projects. So try your best to make it a pleasant experience for your interviewer.
 
 2. Make sure to dress the part. If you’re interviewing at an east coast fortune 500, it’s likely you’ll need to dress much more conservatively than if you were interviewing with a startup on the west coast.
@@ -194,11 +184,9 @@ Your ability to negotiate ultimately rests on a variety of factors, but the bigg
 When you’re negotiating, there are various levers you can pull. The three main ones are your base salary, stock options, and signing/relocation bonus. Every company has a different policy, which means some levers may be easier to pull than others. Generally speaking, signing/relocation is the easiest to negotiate, followed by stock options and then base salary. So if you’re in a weaker position, ask for a higher signing/relocation bonus. However, if you’re in a strong position it may be in your best interest to increase your base salary. The reason being that not only will it act as a higher multiplier when you get raises, but it will also have an effect on company benefits such as 401k matching, and employee stock purchase plans. That said each situation is different so make sure to reprioritize what you negotiate as necessary.
 
 *Preparation:*
-
 1. One of the best resources on negotiation is an `article written by Haseeb Qureshi <https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/>`_ that details how he went from boot camp grad to receiving offers from Google, Airbnb and many others.
 
 *Tips:*
-
 1. If you aren’t good at speaking on the fly, it may be advantageous to let calls from recruiters go to voicemail so you can compose yourself before you call them back. It’s highly unlikely that you’ll be getting a rejection call since those are typically done over email. This means that when you do call them back, you should mentally rehearse what you’ll say when they inform you that they want to give you an offer.
 
 2. Show genuine excitement for the company. Recruiters can sense when a candidate is only in it for the money, and they may be less likely to help you out in the negotiating process.
